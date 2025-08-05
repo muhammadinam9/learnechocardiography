@@ -1,0 +1,32 @@
+QUESTION: What is the relationship between wavelength and frequency in sound waves?
+TOPIC: Sound Wave Fundamentals
+SUBTOPIC: Wave Properties
+DIFFICULTY: easy
+OPTION A: They are directly proportional
+OPTION B: They are inversely proportional
+OPTION C: They have no relationship
+OPTION D: They are logarithmically related
+CORRECT: B
+EXPLANATION: Wavelength and frequency are inversely proportional. As wavelength increases, frequency decreases, and vice versa.
+
+QUESTION: In the context of sound waves, what is the formula for calculating the speed of sound?
+TOPIC: Sound Wave Fundamentals
+SUBTOPIC: Wave Equations
+DIFFICULTY: medium
+OPTION A: v = λ × f
+OPTION B: v = λ / f
+OPTION C: v = f / λ
+OPTION D: v = λ + f
+CORRECT: A
+EXPLANATION: The speed of sound (v) equals the wavelength (λ) multiplied by the frequency (f).
+
+QUESTION: What happens to the frequency of a sound wave when its source moves toward an observer?
+TOPIC: Sound Wave Fundamentals
+SUBTOPIC: Doppler Effect
+DIFFICULTY: hard
+OPTION A: Frequency decreases
+OPTION B: Frequency remains the same
+OPTION C: Frequency increases
+OPTION D: Frequency becomes zero
+CORRECT: C
+EXPLANATION: When a sound source moves toward an observer, the frequency perceived by the observer increases. This is known as the Doppler effect.
